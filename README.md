@@ -1,3 +1,3 @@
-# Tetris_app_Flutter
+# Tetris_game_Flutter
 
-Tetris app using flutter and dart
+Tetris game using flutter and dart
